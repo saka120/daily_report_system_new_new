@@ -4,6 +4,6 @@
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <property name="java-output-path" value="/daily_report_system/build/classes"/>
-        <property name="context-root" value="dairy_report_system"/>
+        <property name="context-root" value="daily_report_system"/>
     </wb-module>
 </project-modules>
